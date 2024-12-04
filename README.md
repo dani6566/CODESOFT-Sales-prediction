@@ -34,7 +34,7 @@ Key statistics and correlations are included in the analysis.
 ## **Installation**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/dani6566/sales-prediction.git  
+   git clone https://github.com/dani6566/CODESOFT-Sales-prediction.git
    cd sales-prediction  
    ```  
 2. Create a virtual environment (optional):  
